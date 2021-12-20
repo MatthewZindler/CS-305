@@ -3,7 +3,7 @@ SNHU Software Security
 
 * Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
-Artimis Financial is a global financial consulting company, seeking modern security for their business and customers. They need help setting up encryption, addressing vulnerabilities in code, and using up to date secure coding practices and programs. They need these features to provide the best service for their customers, and to make global business possible.
+Artimis Financial is a global financial consulting company, seeking modern security for their business and customers. They need help setting up encryption, addressing vulnerabilities in code, and using up to date secure coding practices and programs to keep their data safe. They need these features to provide the best service for their customers, and to make global business possible.
 
 * What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
